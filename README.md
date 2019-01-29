@@ -2,8 +2,8 @@
 ---
 
 [//]: # (Image References)
-[image0]: ./images/lr01.png
-[image1]: ./images/lr001ep40.png
+[image0]: ./images/lr01.PNG
+[image1]: ./images/lr001ep40.PNG
 [image2]: ./images/lr001ep80.png
 [image3]: ./images/following_target.png
 [image4]: ./images/patrol_without_target.png
